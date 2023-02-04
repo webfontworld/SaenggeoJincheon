@@ -1,4 +1,4 @@
-# SaenggeoJincheon
+# 생거진천체(SaenggeoJincheon)
 
 ## 최신 브라우저
 <pre>
